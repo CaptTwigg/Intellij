@@ -1,0 +1,10 @@
+<code_scheme name="Default">
+  <codeStyleSettings language="JAVA">
+    <option name="BLANK_LINES_BEFORE_PACKAGE" value="2" />
+    <option name="BLANK_LINES_AFTER_CLASS_HEADER" value="1" />
+    <indentOptions>
+      <option name="INDENT_SIZE" value="2" />
+      <option name="TAB_SIZE" value="2" />
+    </indentOptions>
+  </codeStyleSettings>
+</code_scheme>
