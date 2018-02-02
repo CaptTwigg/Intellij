@@ -1,0 +1,36 @@
+<application>
+  <component name="libraryTable">
+    <library name="spring:spring-aop:1.0.2" type="repository">
+      <properties maven-id="spring:spring-aop:1.0.2" />
+      <CLASSES>
+        <root url="jar://$MAVEN_REPOSITORY$/spring/spring-aop/1.0.2/spring-aop-1.0.2.jar!/" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES />
+    </library>
+    <library name="spring:spring-context:1.0.2" type="repository">
+      <properties maven-id="spring:spring-context:1.0.2" />
+      <CLASSES>
+        <root url="jar://$MAVEN_REPOSITORY$/spring/spring-context/1.0.2/spring-context-1.0.2.jar!/" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES />
+    </library>
+    <library name="spring:spring-core:1.0.2" type="repository">
+      <properties maven-id="spring:spring-core:1.0.2" />
+      <CLASSES>
+        <root url="jar://$MAVEN_REPOSITORY$/spring/spring-core/1.0.2/spring-core-1.0.2.jar!/" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES />
+    </library>
+    <library name="spring:spring-web:1.0.2" type="repository">
+      <properties maven-id="spring:spring-web:1.0.2" />
+      <CLASSES>
+        <root url="jar://$MAVEN_REPOSITORY$/spring/spring-web/1.0.2/spring-web-1.0.2.jar!/" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES />
+    </library>
+  </component>
+</application>
