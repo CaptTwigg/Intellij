@@ -24,10 +24,42 @@
       <JAVADOC />
       <SOURCES />
     </library>
+    <library name="spring:spring-dao:1.0.2" type="repository">
+      <properties maven-id="spring:spring-dao:1.0.2" />
+      <CLASSES>
+        <root url="jar://$MAVEN_REPOSITORY$/spring/spring-dao/1.0.2/spring-dao-1.0.2.jar!/" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES />
+    </library>
+    <library name="spring:spring-mock:1.0.2" type="repository">
+      <properties maven-id="spring:spring-mock:1.0.2" />
+      <CLASSES>
+        <root url="jar://$MAVEN_REPOSITORY$/spring/spring-mock/1.0.2/spring-mock-1.0.2.jar!/" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES />
+    </library>
+    <library name="spring:spring-orm:1.0.2" type="repository">
+      <properties maven-id="spring:spring-orm:1.0.2" />
+      <CLASSES>
+        <root url="jar://$MAVEN_REPOSITORY$/spring/spring-orm/1.0.2/spring-orm-1.0.2.jar!/" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES />
+    </library>
     <library name="spring:spring-web:1.0.2" type="repository">
       <properties maven-id="spring:spring-web:1.0.2" />
       <CLASSES>
         <root url="jar://$MAVEN_REPOSITORY$/spring/spring-web/1.0.2/spring-web-1.0.2.jar!/" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES />
+    </library>
+    <library name="spring:spring-webmvc:1.0.2" type="repository">
+      <properties maven-id="spring:spring-webmvc:1.0.2" />
+      <CLASSES>
+        <root url="jar://$MAVEN_REPOSITORY$/spring/spring-webmvc/1.0.2/spring-webmvc-1.0.2.jar!/" />
       </CLASSES>
       <JAVADOC />
       <SOURCES />
