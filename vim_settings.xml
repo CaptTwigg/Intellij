@@ -1,0 +1,76 @@
+<application>
+  <component name="VimSettings">
+    <state version="4" enabled="true" />
+    <globalmarks />
+    <filemarks>
+      <file name="$USER_HOME$/IdeaProjects/Grocery_list/src/GroceryList.java" timestamp="1517304675878">
+        <mark key="[" line="13" column="1" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/Grocery_list/src/GroceryOrderList.java" timestamp="1517304575920">
+        <mark key="[" line="0" column="30" />
+      </file>
+      <file name="$USER_HOME$/Dropbox/github/Grocery/src/main/java/Grocery/ShoppingInterface.java" timestamp="1518079941788">
+        <mark key="[" line="92" column="0" />
+        <mark key="]" line="83" column="88" />
+        <mark key="." line="83" column="88" />
+      </file>
+      <file name="/fragment.java" timestamp="1517304416826">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/Grocery_list/src/Main.java" timestamp="1517304429114">
+        <mark key="[" line="1" column="0" />
+        <mark key="]" line="1" column="0" />
+        <mark key="." line="1" column="0" />
+      </file>
+    </filemarks>
+    <jumps />
+    <registers>
+      <register name="1" type="4">
+        <text>.
+          shoppingCart.add(new ShopItem.Builder()
+            .item(item)
+            .quantity(itemQuantityInput)
+            .build());
+        } else
+          System.out.println(&quot;Item not found.&quot;);
+      }
+    }</text>
+      </register>
+      <register name="&quot;" type="4">
+        <text>.
+          shoppingCart.add(new ShopItem.Builder()
+            .item(item)
+            .quantity(itemQuantityInput)
+            .build());
+        } else
+          System.out.println(&quot;Item not found.&quot;);
+      }
+    }</text>
+      </register>
+      <register name="-" type="4">
+        <text>}</text>
+      </register>
+    </registers>
+    <search>
+      <last-dir>0</last-dir>
+      <show-last>false</show-last>
+    </search>
+    <history>
+      <history-search />
+      <history-cmd />
+      <history-expr />
+      <history-input />
+    </history>
+    <shortcut-conflicts>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed O</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed I</text>
+      </shortcut-conflict>
+    </shortcut-conflicts>
+    <editor>
+      <key-repeat enabled="true" />
+    </editor>
+  </component>
+</application>
