@@ -1,13 +1,41 @@
 <application>
   <component name="ProjectManager">
     <defaultProject>
+      <component name="InspectionProjectProfileManager">
+        <option name="PROJECT_PROFILE" />
+        <version value="1.0" />
+      </component>
+      <component name="ProjectInspectionProfilesVisibleTreeState">
+        <entry key="Project Default">
+          <profile-state>
+            <expanded-state>
+              <State>
+                <id />
+              </State>
+              <State>
+                <id>Android &gt; Lint &gt; Correctness</id>
+              </State>
+            </expanded-state>
+            <selected-state>
+              <State>
+                <id>AndroidLintInvalidId</id>
+              </State>
+            </selected-state>
+          </profile-state>
+        </entry>
+      </component>
       <component name="PropertiesComponent">
-        <property name="settings.editor.selected.configurable" value="configurable.group.appearance" />
+        <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+        <property name="settings.editor.selected.configurable" value="http.proxy" />
+      </component>
+      <component name="VcsContentAnnotationSettings">
+        <option name="myLimit" value="2678400000" />
       </component>
       <component name="masterDetails">
         <states>
           <state key="ProjectJDKs.UI">
             <settings>
+              <last-edited>9.0</last-edited>
               <splitter-proportions>
                 <option name="proportions">
                   <list>
