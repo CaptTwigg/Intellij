@@ -1,10 +1,14 @@
 <application>
   <component name="FileTypeManager" version="17">
     <extensionMap>
-      <mapping pattern="test" type="CLASS" />
       <mapping pattern="py" type="CLASS" />
-      <mapping ext="dat" type="PLAIN_TEXT" />
+      <mapping pattern="test" type="CLASS" />
+      <mapping pattern="file4" type="PLAIN_TEXT" />
+      <mapping pattern="file1" type="PLAIN_TEXT" />
+      <mapping pattern="file3" type="PLAIN_TEXT" />
+      <mapping pattern="file2" type="PLAIN_TEXT" />
       <mapping ext="ser" type="PLAIN_TEXT" />
+      <mapping ext="dat" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
 </application>
