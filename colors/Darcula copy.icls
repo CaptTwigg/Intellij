@@ -3,7 +3,7 @@
     <property name="created">2017-11-14T14:20:59</property>
     <property name="ide">Idea</property>
     <property name="ideVersion">2017.2.5.0.0</property>
-    <property name="modified">2018-04-02T12:10:22</property>
+    <property name="modified">2018-04-07T13:11:27</property>
     <property name="originalScheme">_@user_Darcula</property>
   </metaInfo>
   <attributes>
@@ -26,6 +26,9 @@
       <value>
         <option name="FOREGROUND" value="60aef5" />
       </value>
+    </option>
+    <option name="INJECTED_LANGUAGE_FRAGMENT">
+      <value />
     </option>
     <option name="METHOD_CALL_ATTRIBUTES">
       <value>
