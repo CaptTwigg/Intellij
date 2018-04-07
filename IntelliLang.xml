@@ -4,5 +4,13 @@
       <display-name>head</display-name>
       <place><![CDATA[xmlTag().withLocalName(string().equalTo("head")).withNamespace(string().equalTo("http://www.w3.org/1999/html"))]]></place>
     </injection>
+    <injection language="ThymeleafIterateExpressions" injector-id="xml">
+      <display-name>td/@text</display-name>
+      <place><![CDATA[xmlAttribute().withLocalName(string().equalTo("text")).withNamespace(string().equalTo("http://www.thymeleaf.org")).withParent(xmlTag().withLocalName(string().equalTo("td")).withNamespace(string().equalTo("http://www.w3.org/1999/html")))]]></place>
+    </injection>
+    <injection language="ThymeleafIterateExpressions" injector-id="xml">
+      <display-name>tr/@each</display-name>
+      <place><![CDATA[xmlAttribute().withLocalName(string().equalTo("each")).withNamespace(string().equalTo("http://www.thymeleaf.org")).withParent(xmlTag().withLocalName(string().equalTo("tr")).withNamespace(string().equalTo("http://www.w3.org/1999/html")))]]></place>
+    </injection>
   </component>
 </application>
