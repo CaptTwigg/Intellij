@@ -5,5 +5,41 @@
       <JAVADOC />
       <SOURCES />
     </library>
+    <library name="lwjgl-3.1.6">
+      <ANNOTATIONS>
+        <root url="jar://$USER_HOME$/Downloads/lwjgl-3.1.6.zip!/" />
+      </ANNOTATIONS>
+      <CLASSES>
+        <root url="jar://$USER_HOME$/Downloads/lwjgl-3.1.6.zip!/" />
+      </CLASSES>
+      <JAVADOC>
+        <root url="jar://$USER_HOME$/Downloads/lwjgl-3.1.6.zip!/" />
+      </JAVADOC>
+      <NATIVE>
+        <root url="jar://$USER_HOME$/Downloads/lwjgl-3.1.6.zip!/" />
+      </NATIVE>
+      <SOURCES>
+        <root url="jar://$USER_HOME$/Downloads/lwjgl-3.1.6.zip!/" />
+      </SOURCES>
+      <jarDirectory url="jar://$USER_HOME$/Downloads/lwjgl-3.1.6.zip!/" recursive="false" />
+      <jarDirectory url="jar://$USER_HOME$/Downloads/lwjgl-3.1.6.zip!/" recursive="false" type="SOURCES" />
+    </library>
+    <library name="org.lwjgl.osgi:org.lwjgl.egl:3.1.2" type="repository">
+      <properties maven-id="org.lwjgl.osgi:org.lwjgl.egl:3.1.2" />
+      <CLASSES>
+        <root url="jar://$MAVEN_REPOSITORY$/org/lwjgl/osgi/org.lwjgl.egl/3.1.2/org.lwjgl.egl-3.1.2.jar!/" />
+        <root url="jar://$MAVEN_REPOSITORY$/org/lwjgl/osgi/org.lwjgl.lwjgl/3.1.2/org.lwjgl.lwjgl-3.1.2.jar!/" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES />
+    </library>
+    <library name="org.lwjgl:lwjgl:3.1.2" type="repository">
+      <properties maven-id="org.lwjgl:lwjgl:3.1.2" />
+      <CLASSES>
+        <root url="jar://$MAVEN_REPOSITORY$/org/lwjgl/lwjgl/3.1.2/lwjgl-3.1.2.jar!/" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES />
+    </library>
   </component>
 </application>
