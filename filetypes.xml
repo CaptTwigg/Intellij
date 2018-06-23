@@ -3,13 +3,14 @@
     <extensionMap>
       <mapping pattern="test" type="CLASS" />
       <mapping pattern="py" type="CLASS" />
+      <mapping pattern="files" type="PLAIN_TEXT" />
       <mapping pattern="file4" type="PLAIN_TEXT" />
       <mapping pattern="file3" type="PLAIN_TEXT" />
       <mapping pattern="file2" type="PLAIN_TEXT" />
-      <mapping pattern="files" type="PLAIN_TEXT" />
       <mapping pattern="file1" type="PLAIN_TEXT" />
-      <mapping ext="ser" type="PLAIN_TEXT" />
       <mapping ext="dat" type="PLAIN_TEXT" />
+      <mapping ext="ser" type="PLAIN_TEXT" />
+      <mapping pattern="xml" type="XML" />
     </extensionMap>
   </component>
 </application>
