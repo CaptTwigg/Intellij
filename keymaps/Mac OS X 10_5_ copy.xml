@@ -6,6 +6,7 @@
     <keyboard-shortcut first-keystroke="meta 7" />
   </action>
   <action id="Console.TableResult.Reload" />
+  <action id="Console.TableResult.SelectRow" />
   <action id="Refresh" />
   <action id="Replace" />
   <action id="Rerun" />
@@ -16,6 +17,10 @@
   <action id="Scala.ShowImplicits">
     <keyboard-shortcut first-keystroke="shift ctrl alt equals" />
     <keyboard-shortcut first-keystroke="shift ctrl alt add" />
+  </action>
+  <action id="SmartTypeCompletion">
+    <keyboard-shortcut first-keystroke="shift ctrl space" />
+    <keyboard-shortcut first-keystroke="shift space" />
   </action>
   <action id="Vcs.Log.Refresh" />
   <action id="hg4idea.QRefresh" />
