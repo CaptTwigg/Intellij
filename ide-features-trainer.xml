@@ -66,6 +66,14 @@
             </StatisticData>
           </value>
         </entry>
+        <entry key="EditorBasics.Selection">
+          <value>
+            <StatisticData>
+              <option name="state" value="STARTED" />
+              <option name="timestamp" value="1537431284331" />
+            </StatisticData>
+          </value>
+        </entry>
       </map>
     </option>
   </component>
