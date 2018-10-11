@@ -1,0 +1,8 @@
+<templateSet group="user">
+  <template name="T" value="Thread thread = new Thread(()-&gt;{&#10;  $SELECTION$&#10;});&#10;thread.start();" description="Lambda thread" toReformat="true" toShortenFQNames="true">
+    <context>
+      <option name="JAVA_EXPRESSION" value="true" />
+      <option name="JAVA_STATEMENT" value="true" />
+    </context>
+  </template>
+</templateSet>
