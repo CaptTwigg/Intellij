@@ -1,6 +1,7 @@
 <application>
   <component name="FileTypeManager" version="17">
     <extensionMap>
+      <mapping ext="klib" type="ARCHIVE" />
       <mapping pattern="test" type="CLASS" />
       <mapping pattern="py" type="CLASS" />
       <mapping pattern="file4" type="PLAIN_TEXT" />
