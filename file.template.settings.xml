@@ -2,10 +2,14 @@
   <component name="ExportableFileTemplateSettings">
     <default_templates>
       <template name="Class Main.java" reformat="true" live-template-enabled="true" />
+      <template name="Spring RestApi CRUD.java" reformat="true" live-template-enabled="true" />
     </default_templates>
     <internal_templates>
       <template name="Class.java" reformat="true" live-template-enabled="true" enabled="true" />
       <template name="Less File.less" reformat="true" live-template-enabled="true" enabled="true" />
     </internal_templates>
+    <includes_templates>
+      <template name="File Header.java" reformat="true" live-template-enabled="true" enabled="true" />
+    </includes_templates>
   </component>
 </application>
