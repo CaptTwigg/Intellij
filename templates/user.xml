@@ -5,7 +5,7 @@
       <option name="JAVA_STATEMENT" value="true" />
     </context>
   </template>
-  <template name="newo" value="$Clazz$ $obj$ = new $Clazz$($END$);" toReformat="false" toShortenFQNames="true">
+  <template name="newo" value="$Clazz$ $obj$ = new $Clazz$($END$);" description="" toReformat="false" toShortenFQNames="true">
     <variable name="Clazz" expression="classNameComplete()" defaultValue="" alwaysStopAt="true" />
     <variable name="obj" expression="guessElementType(Container)" defaultValue="decapitalize(clazz)" alwaysStopAt="true" />
     <context>
