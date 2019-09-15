@@ -1,49 +1,21 @@
 <scheme name="_@user_Darcula" version="142" parent_scheme="Darcula">
+  <option name="FONT_SCALE" value="1.0" />
   <metaInfo>
-    <property name="created">2017-11-13T18:15:20</property>
-    <property name="ide">Idea</property>
-    <property name="ideVersion">2017.2.5.0.0</property>
-    <property name="modified">2018-10-29T09:22:09</property>
+    <property name="created">2019-05-10T11:07:05</property>
+    <property name="ide">Python</property>
+    <property name="ideVersion">2018.3.5.0.0</property>
+    <property name="modified">2019-05-10T11:33:09</property>
     <property name="originalScheme">Darcula</property>
   </metaInfo>
+  <option name="CONSOLE_FONT_NAME" value="Menlo" />
+  <option name="CONSOLE_LINE_SPACING" value="1.0" />
   <colors>
-    <option name="FILESTATUS_COPIED" value="629755" />
-    <option name="FILESTATUS_HIJACKED" value="ffcb6b" />
-    <option name="FILESTATUS_OBSOLETE" value="ffcb6b" />
-    <option name="FILESTATUS_RENAMED" value="3a8484" />
-    <option name="FILESTATUS_SUPPRESSED" value="546e7a" />
-    <option name="FILESTATUS_SWITCHED" value="f77669" />
+    <option name="DOCUMENTATION_COLOR" value="3c3f41" />
   </colors>
   <attributes>
-    <option name="ABSTRACT_METHOD_ATTRIBUTES">
+    <option name="PY.FUNCTION_CALL">
       <value>
-        <option name="FOREGROUND" value="60aef5" />
-      </value>
-    </option>
-    <option name="CLASS_NAME_ATTRIBUTES">
-      <value>
-        <option name="FOREGROUND" value="ffdb07" />
-      </value>
-    </option>
-    <option name="CONSTRUCTOR_CALL_ATTRIBUTES">
-      <value>
-        <option name="FOREGROUND" value="ff5e5b" />
-      </value>
-    </option>
-    <option name="INHERITED_METHOD_ATTRIBUTES">
-      <value>
-        <option name="FOREGROUND" value="60aef5" />
-      </value>
-    </option>
-    <option name="METHOD_CALL_ATTRIBUTES">
-      <value>
-        <option name="FOREGROUND" value="60aef5" />
-      </value>
-    </option>
-    <option name="STATIC_METHOD_ATTRIBUTES">
-      <value>
-        <option name="FOREGROUND" value="60aef5" />
-        <option name="FONT_TYPE" value="2" />
+        <option name="FOREGROUND" value="ffc66d" />
       </value>
     </option>
   </attributes>
