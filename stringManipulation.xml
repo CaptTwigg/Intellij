@@ -1,0 +1,18 @@
+<application>
+  <component name="StringManipulationState">
+    <option name="history">
+      <list>
+        <ColumnAlignerModel>
+          <option name="added" value="1569663953621" />
+          <option name="separators">
+            <list>
+              <option value=";" />
+              <option value="" />
+            </list>
+          </option>
+        </ColumnAlignerModel>
+      </list>
+    </option>
+    <option name="version" value="2" />
+  </component>
+</application>
