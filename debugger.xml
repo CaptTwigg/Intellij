@@ -3,9 +3,10 @@
     <data-views />
     <general />
     <debuggers>
-      <debugger id="javascript">
+      <debugger id="python">
         <configuration>
-          <custom-object-presentation />
+          <option name="valuesPolicy" value="SYNC" />
+          <option name="watchReturnValues" value="true" />
         </configuration>
       </debugger>
     </debuggers>
