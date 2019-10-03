@@ -3,18 +3,6 @@
     <option name="history">
       <list>
         <ColumnAlignerModel>
-          <option name="added" value="1568718925120" />
-          <option name="separators">
-            <list>
-              <option value=":" />
-              <option value="" />
-            </list>
-          </option>
-          <option name="spaceAfterSeparator" value="false" />
-          <option name="spaceBeforeSeparator" value="false" />
-          <option name="trimValues" value="false" />
-        </ColumnAlignerModel>
-        <ColumnAlignerModel>
           <option name="added" value="1568718936302" />
           <option name="separators">
             <list>
@@ -232,6 +220,18 @@
         </ColumnAlignerModel>
         <ColumnAlignerModel>
           <option name="added" value="1570091525333" />
+          <option name="separators">
+            <list>
+              <option value="&quot;" />
+              <option value="" />
+            </list>
+          </option>
+          <option name="spaceAfterSeparator" value="false" />
+          <option name="spaceBeforeSeparator" value="false" />
+          <option name="trimValues" value="false" />
+        </ColumnAlignerModel>
+        <ColumnAlignerModel>
+          <option name="added" value="1570094171386" />
           <option name="separators">
             <list>
               <option value="&quot;" />
