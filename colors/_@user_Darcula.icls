@@ -4,15 +4,20 @@
     <property name="created">2019-05-10T11:07:05</property>
     <property name="ide">Python</property>
     <property name="ideVersion">2018.3.5.0.0</property>
-    <property name="modified">2019-05-10T11:33:09</property>
+    <property name="modified">2019-10-23T12:12:10</property>
     <property name="originalScheme">Darcula</property>
   </metaInfo>
-  <option name="CONSOLE_FONT_NAME" value="Menlo" />
+  <option name="CONSOLE_FONT_NAME" value="Consolas" />
   <option name="CONSOLE_LINE_SPACING" value="1.0" />
   <colors>
     <option name="DOCUMENTATION_COLOR" value="3c3f41" />
   </colors>
   <attributes>
+    <option name="PY.ANNOTATION">
+      <value>
+        <option name="FOREGROUND" value="fffb05" />
+      </value>
+    </option>
     <option name="PY.FUNCTION_CALL">
       <value>
         <option name="FOREGROUND" value="ffc66d" />
