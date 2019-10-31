@@ -4,6 +4,7 @@
     <extensionMap>
       <mapping ext="qss" type="CSS" />
       <mapping pattern="StateOfNations" type="PLAIN_TEXT" />
+      <mapping ext="dat" type="PLAIN_TEXT" />
       <mapping ext="bin" type="PLAIN_TEXT" />
       <removed_mapping ext="bat" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="log" approved="true" type="PLAIN_TEXT" />
