@@ -1,0 +1,255 @@
+<application>
+  <component name="StringManipulationState">
+    <option name="history">
+      <list>
+        <ColumnAlignerModel>
+          <option name="added" value="1569307090769" />
+          <option name="separators">
+            <list>
+              <option value="," />
+              <option value="" />
+            </list>
+          </option>
+          <option name="spaceAfterSeparator" value="false" />
+          <option name="spaceBeforeSeparator" value="false" />
+          <option name="trimValues" value="false" />
+        </ColumnAlignerModel>
+        <ColumnAlignerModel>
+          <option name="added" value="1569307114440" />
+          <option name="separators">
+            <list>
+              <option value="]" />
+              <option value="" />
+            </list>
+          </option>
+          <option name="spaceAfterSeparator" value="false" />
+          <option name="spaceBeforeSeparator" value="false" />
+          <option name="trimValues" value="false" />
+        </ColumnAlignerModel>
+        <ColumnAlignerModel>
+          <option name="added" value="1569307124218" />
+          <option name="separators">
+            <list>
+              <option value="," />
+              <option value="" />
+            </list>
+          </option>
+          <option name="spaceAfterSeparator" value="false" />
+          <option name="spaceBeforeSeparator" value="false" />
+          <option name="trimValues" value="false" />
+        </ColumnAlignerModel>
+        <ColumnAlignerModel>
+          <option name="added" value="1569391335044" />
+          <option name="separators">
+            <list>
+              <option value=":" />
+              <option value="" />
+            </list>
+          </option>
+          <option name="spaceAfterSeparator" value="false" />
+          <option name="spaceBeforeSeparator" value="false" />
+          <option name="trimValues" value="false" />
+        </ColumnAlignerModel>
+        <ColumnAlignerModel>
+          <option name="added" value="1569408620875" />
+          <option name="separators">
+            <list>
+              <option value=":" />
+              <option value="" />
+            </list>
+          </option>
+          <option name="spaceAfterSeparator" value="false" />
+          <option name="spaceBeforeSeparator" value="false" />
+          <option name="trimValues" value="false" />
+        </ColumnAlignerModel>
+        <ColumnAlignerModel>
+          <option name="added" value="1569411003638" />
+          <option name="separators">
+            <list>
+              <option value="," />
+              <option value="" />
+            </list>
+          </option>
+          <option name="spaceAfterSeparator" value="false" />
+          <option name="spaceBeforeSeparator" value="false" />
+          <option name="trimValues" value="false" />
+        </ColumnAlignerModel>
+        <ColumnAlignerModel>
+          <option name="added" value="1569832320040" />
+          <option name="separators">
+            <list>
+              <option value=":" />
+              <option value="" />
+            </list>
+          </option>
+          <option name="spaceAfterSeparator" value="false" />
+          <option name="spaceBeforeSeparator" value="false" />
+          <option name="trimValues" value="false" />
+        </ColumnAlignerModel>
+        <ColumnAlignerModel>
+          <option name="added" value="1569832345025" />
+          <option name="separators">
+            <list>
+              <option value="&quot;" />
+              <option value="" />
+            </list>
+          </option>
+          <option name="spaceAfterSeparator" value="false" />
+          <option name="spaceBeforeSeparator" value="false" />
+          <option name="trimValues" value="false" />
+        </ColumnAlignerModel>
+        <ColumnAlignerModel>
+          <option name="added" value="1570014949282" />
+          <option name="separators">
+            <list>
+              <option value=":" />
+              <option value="" />
+            </list>
+          </option>
+          <option name="spaceAfterSeparator" value="false" />
+          <option name="spaceBeforeSeparator" value="false" />
+          <option name="trimValues" value="false" />
+        </ColumnAlignerModel>
+        <ColumnAlignerModel>
+          <option name="added" value="1570014953008" />
+          <option name="separators">
+            <list>
+              <option value="," />
+              <option value="" />
+            </list>
+          </option>
+          <option name="spaceAfterSeparator" value="false" />
+          <option name="spaceBeforeSeparator" value="false" />
+          <option name="trimValues" value="false" />
+        </ColumnAlignerModel>
+        <ColumnAlignerModel>
+          <option name="added" value="1570014962063" />
+          <option name="separators">
+            <list>
+              <option value="&quot;" />
+              <option value="" />
+            </list>
+          </option>
+          <option name="spaceAfterSeparator" value="false" />
+          <option name="spaceBeforeSeparator" value="false" />
+          <option name="trimValues" value="false" />
+        </ColumnAlignerModel>
+        <ColumnAlignerModel>
+          <option name="added" value="1570090933275" />
+          <option name="separators">
+            <list>
+              <option value=":" />
+              <option value="" />
+            </list>
+          </option>
+          <option name="spaceAfterSeparator" value="false" />
+          <option name="spaceBeforeSeparator" value="false" />
+          <option name="trimValues" value="false" />
+        </ColumnAlignerModel>
+        <ColumnAlignerModel>
+          <option name="added" value="1570090942672" />
+          <option name="separators">
+            <list>
+              <option value="&quot;" />
+              <option value="" />
+            </list>
+          </option>
+          <option name="spaceAfterSeparator" value="false" />
+          <option name="spaceBeforeSeparator" value="false" />
+          <option name="trimValues" value="false" />
+        </ColumnAlignerModel>
+        <ColumnAlignerModel>
+          <option name="added" value="1570091525333" />
+          <option name="separators">
+            <list>
+              <option value="&quot;" />
+              <option value="" />
+            </list>
+          </option>
+          <option name="spaceAfterSeparator" value="false" />
+          <option name="spaceBeforeSeparator" value="false" />
+          <option name="trimValues" value="false" />
+        </ColumnAlignerModel>
+        <ColumnAlignerModel>
+          <option name="added" value="1570094171386" />
+          <option name="separators">
+            <list>
+              <option value="&quot;" />
+              <option value="" />
+            </list>
+          </option>
+          <option name="spaceAfterSeparator" value="false" />
+          <option name="spaceBeforeSeparator" value="false" />
+          <option name="trimValues" value="false" />
+        </ColumnAlignerModel>
+        <ColumnAlignerModel>
+          <option name="added" value="1571638273555" />
+          <option name="separators">
+            <list>
+              <option value=");" />
+              <option value="" />
+            </list>
+          </option>
+          <option name="spaceAfterSeparator" value="false" />
+          <option name="spaceBeforeSeparator" value="false" />
+          <option name="trimValues" value="false" />
+        </ColumnAlignerModel>
+        <ColumnAlignerModel>
+          <option name="added" value="1571638524540" />
+          <option name="separators">
+            <list>
+              <option value="(" />
+              <option value="" />
+            </list>
+          </option>
+          <option name="spaceAfterSeparator" value="false" />
+          <option name="spaceBeforeSeparator" value="false" />
+          <option name="trimValues" value="false" />
+        </ColumnAlignerModel>
+        <ColumnAlignerModel>
+          <option name="added" value="1571638546495" />
+          <option name="separators">
+            <list>
+              <option value=";" />
+              <option value="" />
+            </list>
+          </option>
+          <option name="spaceAfterSeparator" value="false" />
+          <option name="spaceBeforeSeparator" value="false" />
+          <option name="trimValues" value="false" />
+        </ColumnAlignerModel>
+        <ColumnAlignerModel>
+          <option name="added" value="1571748705559" />
+          <option name="separators">
+            <list>
+              <option value=")" />
+              <option value="" />
+            </list>
+          </option>
+          <option name="spaceAfterSeparator" value="false" />
+          <option name="spaceBeforeSeparator" value="false" />
+          <option name="trimValues" value="false" />
+        </ColumnAlignerModel>
+        <ColumnAlignerModel>
+          <option name="added" value="1572420284507" />
+          <option name="separators">
+            <list>
+              <option value="(" />
+              <option value="" />
+            </list>
+          </option>
+          <option name="spaceAfterSeparator" value="false" />
+          <option name="spaceBeforeSeparator" value="false" />
+          <option name="trimValues" value="false" />
+        </ColumnAlignerModel>
+      </list>
+    </option>
+    <option name="lastSelectedAction" value="1" />
+    <option name="sortSettings">
+      <SortSettings>
+        <option name="sortType" value="SHUFFLE" />
+      </SortSettings>
+    </option>
+    <option name="version" value="2" />
+  </component>
+</application>
