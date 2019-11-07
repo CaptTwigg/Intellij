@@ -10,4 +10,11 @@
     <keyboard-shortcut first-keystroke="alt 7" />
   </action>
   <action id="GotoBookmark7" />
+  <action id="UpdateRunningApplication" />
+  <action id="android.deploy.ApplyChanges">
+    <keyboard-shortcut first-keystroke="ctrl f10" />
+  </action>
+  <action id="android.deploy.CodeSwap">
+    <keyboard-shortcut first-keystroke="ctrl alt f10" />
+  </action>
 </keymap>
