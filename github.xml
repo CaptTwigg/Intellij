@@ -3,5 +3,11 @@
     <account id="da036551-7ec2-41ef-85fc-990988eb8a11" name="CaptTwigg">
       <server host="github.com" />
     </account>
+    <account id="56bd338a-5b6a-4142-aa87-60f2f0d28f7f" name="CaptTwigg">
+      <server useHttp="false" host="github.com" />
+    </account>
+    <account id="60c3b8be-1f78-424a-9355-f1de85c934fb" name="mtaimi45@gmail.com">
+      <server useHttp="false" host="github.com" />
+    </account>
   </component>
 </application>
